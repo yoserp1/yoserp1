@@ -1,5 +1,5 @@
 ### 👋 Hola, Soy Yoser Gregori Perez Gascon  👨‍🦱 💻 👨‍💻
-#### Soy desarrollador Full-Stack, soy ingeniero en informatica y me apasiona el desarrollo de nuevas tecnologias.
+#### Soy desarrollador Full-Stack, ingeniero en informatica y me apasiona el desarrollo de nuevas tecnologias.
 
 Tengo mucho interés de aprender cada día más sobre las tecnologías y trabajar con responsabilidad, compromiso, liderazgo, en equipo, me gustan los retos, siempre busco la mejoría continúa y apertura al cambio.
 
