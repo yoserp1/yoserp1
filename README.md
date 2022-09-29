@@ -58,6 +58,11 @@ Tengo mucho interés de aprender cada día más sobre las tecnologías y trabaja
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" width="40" height="40"/></a> 
 </p>
 
+#### Herramientas
+<p align="left">
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" width="40" height="40"/></a>
+</p>
+
 <!--
 **yoserp1/yoserp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
