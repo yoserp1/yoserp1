@@ -10,6 +10,9 @@ Tengo mucho interés de aprender cada día más sobre las tecnologías y trabaja
 * 📫 Mi correo de contacto es **yoserp1@gmail.com**
 
 #### Sigueme en mis diferentes redes sociales
+<p align="left">
+<a href="https://linkedin.com/in/yoserp1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yoser Perez" height="30" width="40" /></a>
+</p>
 
 <!--
 **yoserp1/yoserp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
