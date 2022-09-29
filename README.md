@@ -47,6 +47,12 @@ Tengo mucho interés de aprender cada día más sobre las tecnologías y trabaja
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
 </p>
 
+#### Devops
+<p align="left">
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40"/></a> 
+</p>
+
 <!--
 **yoserp1/yoserp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
