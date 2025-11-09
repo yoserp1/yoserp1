@@ -47,7 +47,7 @@ Disfruto enfrentar **nuevos retos** tecnológicos y crear software escalable, se
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
   <img src="https://ionicframework.com/img/meta/favicon-192x192.png" width="45" height="45" alt="ionic"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/ExtJS_logo.png" width="45" height="45"/>
+  <img src="https://images.g2crowd.com/uploads/product/image/ac12191a44f3006a9ce6afd8ed1f5089/ext-js.png" width="45" height="45"/>
 </p>
 
 ### **Mobile**
