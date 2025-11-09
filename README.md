@@ -36,7 +36,7 @@ Disfruto enfrentar **nuevos retos** tecnológicos y crear software escalable, se
 ### **Backend**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 </p>
 
@@ -47,7 +47,7 @@ Disfruto enfrentar **nuevos retos** tecnológicos y crear software escalable, se
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
   <img src="https://ionicframework.com/img/meta/favicon-192x192.png" width="45" height="45" alt="ionic"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/extjs/extjs-original.svg" width="45" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/ExtJS_logo.png" width="45" height="45"/>
 </p>
 
 ### **Mobile**
